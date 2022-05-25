@@ -20,7 +20,7 @@
 
 ## Procesamiento de los datos
 - [ ] Definir en base a un procesamiento de los datos una target feature. Opciones posibles:
-  - [ ] ALZA, BAJA, HOLD
+  - [x] Predecir el precio
 - [ ] Trabajo de datos
   - [ ] Feature engineering
   - [ ] Ver como agrupar los timestamps
@@ -42,7 +42,9 @@
   - [ ] ARIMA <- BEST
 - [ ] [Trading Bitcoin and Online Time Series Prediction](http://proceedings.mlr.press/v55/amjad16.pdf)
   - [ ] ARIMA
-  - [ ] BART <- BEST
+  - [ ] EC
+  - [ ] RF <- BEST
+  - [ ] LDA
 
 ## Benchmark final 
 - [ ] Investigar [freqtrade](https://www.freqtrade.io/en/stable/) para lograr un benchmark

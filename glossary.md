@@ -36,3 +36,4 @@ Stationarity is an important characteristic of time series. A time series is sai
 ## Seasonality
 Seasonality refers to periodic fluctuations. For example, electricity consumption is high during the day and low during night, or online sales increase during Christmas before slowing down again.
 ![alt text](https://miro.medium.com/max/773/1*po-ZfwDPLCS5cIQBG_S-lA.png)
+
