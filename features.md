@@ -42,17 +42,14 @@ Momentum
     Ultimate Oscillator (UO) X -> es el mismo uso que RSI, pero presenta menor volatilidad porque en lugar de hacerse sobre un time frame se hace sobre 3. para construir una señal de compra o venta hay que serguir unos pasos, no parece sencillo introducir esto en el algoritmo
     Stochastic Oscillator (SR) X -> puede servir, es como RSI pero aplica mas en choppy markets (In general, the RSI is more useful during trending markets, and stochastics more so in sideways or choppy markets.)
     Williams %R (WR) X -> igual que el stochastic oscillator, solo cambian la escala de indicadores
-    Awesome Oscillator (AO)
-    Kaufman's Adaptive Moving Average (KAMA)
-    Rate of Change (ROC)
-    Percentage Price Oscillator (PPO)
-    Percentage Volume Oscillator (PVO)
+    Awesome Oscillator (AO) X
+    Kaufman's Adaptive Moving Average (KAMA) X 
+    Rate of Change (ROC) X
+    Percentage Price Oscillator (PPO) X
+    Percentage Volume Oscillator (PVO) X
 
 Others
 
     Daily Return (DR)
     Daily Log Return (DLR)
     Cumulative Return (CR)
-
-
-QUEDARSE CON RSI O SR, DEPENDIENDO DE SI EL MARKET ES TRENDING O CHOPPY
